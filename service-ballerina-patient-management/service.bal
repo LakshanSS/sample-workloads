@@ -41,7 +41,7 @@ service /mediflow on new http:Listener(9090) {
         return caller->respond(string `Patient ${name} not found`);
     }
 
-    // List all existing patients
+    // List all patients
     resource function get patients(http:Caller caller, http:Request req) returns error? {
         check caller->respond(patients);
     }
