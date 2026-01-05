@@ -2,7 +2,7 @@
 
 This is a simple patient management REST service developed using Ballerina. This service provides functionalities to manage patient data, including adding a new patient, retrieving patient details by name, and listing all patients.
 
-## Deploy in Choreo
+## Deploy in OpenChoreo
 
 Follow these steps to deploy the application in Choreo.
 
