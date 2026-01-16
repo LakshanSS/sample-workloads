@@ -4,7 +4,7 @@ This is a simple patient management REST service developed using Ballerina. This
 
 ## Deploy in OpenChoreo
 
-Follow these steps to deploy the application in Choreo.
+Follow these steps to deploy the application in OpenChoreo.
 
 1. Create a component
      - Sign in to [Choreo](https://wso2.com/choreo/)
