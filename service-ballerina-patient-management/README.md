@@ -71,7 +71,7 @@ Verify if the service is operational:
 }
 ```
 
-### 4. List all patients in the system
+### 4. List all patients
 
 **Endpoint:** `/patients`  
 **Method:** `GET`  
