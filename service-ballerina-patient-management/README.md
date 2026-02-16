@@ -34,7 +34,7 @@ Verify if the service is operational:
 }
 ```
 
-### 2. Add a new patient
+### 2. Add a new patient to the system
 
 **Endpoint:** `/patients`  
 **Method:** `POST` 
