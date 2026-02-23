@@ -57,7 +57,7 @@ Verify if the service is operational:
   }"
 }
 ```
-### 3. Retrieve a patient by name
+### 3. Retrieve a patient by name from the system
 
 **Endpoint:** `/patients/{name}`  
 **Method:** `GET`  
