@@ -33,7 +33,7 @@ All endpoints are prefixed with `/mediflow`.
 }
 ```
 
-### Add a New Patient
+### Add a New Patient to the system
 
 **Endpoint:** `POST /mediflow/patients`
 
